@@ -1,0 +1,2 @@
+
+dotnet ef dbcontext scaffold "Server=your_server;Database=your_database;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models

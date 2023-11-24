@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{6B4FD74D-5014-411E-9071-39D63695F576}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BusinessObject/Models/ParttimeJobContext.cs">
+    <Files>
+      <File FileName="BusinessObject/Models/ParttimeJobContext.cs" Line="68" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Capstone_Project_490" selected="True">
+            <Node name="Business Layer" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Data_220Layer.Capstone__Project__490 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
