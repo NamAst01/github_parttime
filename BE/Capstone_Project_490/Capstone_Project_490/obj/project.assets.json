@@ -4136,11 +4136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/Capstone_Project_490/Capstone_Project_490.csproj",
+      "projectUniqueName": "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/Capstone_Project_490/Capstone_Project_490.csproj",
       "projectName": "Capstone_Project_490",
-      "projectPath": "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/Capstone_Project_490/Capstone_Project_490.csproj",
+      "projectPath": "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/Capstone_Project_490/Capstone_Project_490.csproj",
       "packagesPath": "/Users/ast/.nuget/packages/",
-      "outputPath": "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/Capstone_Project_490/obj/",
+      "outputPath": "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/Capstone_Project_490/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ast/.nuget/NuGet/NuGet.Config"
@@ -4156,11 +4156,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/BusinessObject/BusinessObject.csproj": {
-              "projectPath": "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/BusinessObject/BusinessObject.csproj"
+            "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/BusinessObject/BusinessObject.csproj": {
+              "projectPath": "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/BusinessObject/BusinessObject.csproj"
             },
-            "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/DataProdiver/DataProvider.csproj": {
-              "projectPath": "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/DataProdiver/DataProvider.csproj"
+            "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/DataProdiver/DataProvider.csproj": {
+              "projectPath": "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/DataProdiver/DataProvider.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3p0kKM6j77D2yDeFk0GWBi5A+cdJ8JLyGZNq6k9xtSjwReXn+YcS3GW4mcP1RC/ff4XHA7Ck82WQohgZ2l/5Tw==",
+  "dgSpecHash": "EZrkrhCKLwD+b7okrufS9BmFKaHNDFbDi0fvhst0zznTgNQIW/+iovt3thIZhxkI1aSiH7gBS4wzXB2zT3weLA==",
   "success": true,
-  "projectFilePath": "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/DataProdiver/DataProvider.csproj",
+  "projectFilePath": "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/DataProdiver/DataProvider.csproj",
   "expectedPackageFiles": [
     "/Users/ast/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/ast/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",

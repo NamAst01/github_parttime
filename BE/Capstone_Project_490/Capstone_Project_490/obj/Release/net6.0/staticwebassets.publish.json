@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "gy28m0zckI7UUJDTpWFO1usxCj7ZMAqyV+5Jl6maPj8=",
+  "Source": "Capstone_Project_490",
+  "BasePath": "_content/Capstone_Project_490",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/DataProdiver/DataProvider.csproj",
+      "Version": 2,
+      "Source": "DataProvider",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

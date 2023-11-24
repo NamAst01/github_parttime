@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "6Lf8u8PPe5YbDIQHVMrvShs2IsgxCAXl2K2deob9pQs=",
+  "Hash": "6mEYx+PUWUjXq8fTPh5PqBsA4//xtUn4NO3Ro0oQdg4=",
   "Source": "Capstone_Project_490",
   "BasePath": "_content/Capstone_Project_490",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/DataProdiver/DataProvider.csproj",
+      "Identity": "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/DataProdiver/DataProvider.csproj",
       "Version": 2,
       "Source": "DataProvider",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

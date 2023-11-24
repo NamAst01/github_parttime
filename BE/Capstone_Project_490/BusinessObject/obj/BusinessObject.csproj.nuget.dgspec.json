@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/BusinessObject/BusinessObject.csproj": {}
+    "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/BusinessObject/BusinessObject.csproj": {}
   },
   "projects": {
-    "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/BusinessObject/BusinessObject.csproj": {
+    "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/BusinessObject/BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/BusinessObject/BusinessObject.csproj",
+        "projectUniqueName": "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/BusinessObject/BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/BusinessObject/BusinessObject.csproj",
+        "projectPath": "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/BusinessObject/BusinessObject.csproj",
         "packagesPath": "/Users/ast/.nuget/packages/",
-        "outputPath": "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/BusinessObject/obj/",
+        "outputPath": "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/BusinessObject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ast/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zG+iMoM+DEvKQMssIA4VAncr+zdmtHxhrYfd40xVwSb58mXKrL/ERlkeX8ZhK8mdtOkdCWmxTVCVQ38EUMjo7Q==",
+  "dgSpecHash": "p/mx0KU6bEiVnzhdZ+DGY0MIaqozZyTHzQ/KC4uD2xGbmy3qWmloT1WjARVS3GiPl527CCd2UPnZJLVhKCDIog==",
   "success": true,
-  "projectFilePath": "/Users/ast/Documents/DO_AN/ver24_11/BE/Capstone_Project_490/BusinessObject/BusinessObject.csproj",
+  "projectFilePath": "/Users/ast/Documents/DO_AN/ver24_11/GITHUB/github_parttime/BE/Capstone_Project_490/BusinessObject/BusinessObject.csproj",
   "expectedPackageFiles": [
     "/Users/ast/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/ast/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
